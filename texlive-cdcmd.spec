@@ -3,7 +3,7 @@ Version:	60742
 Release:	2
 Summary:	Expandable conditional commands for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cdcmd
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cdcmd
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cdcmd.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cdcmd.doc.r%{version}.tar.xz
